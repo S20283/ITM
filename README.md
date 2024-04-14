@@ -96,3 +96,31 @@ Citations:
 [3] https://iampm.pl/blog/analityk-biznesowy-w-it-zarobki-i-perspektywy-rozwoju/
 [4] https://subeo.pl/najlepsze-narzedzia-rpa-ktore-pomoga-ci-zoptymalizowac-procesy-biznesowe/
 [5] https://pl.linkedin.com/pulse/analityk-biznesowy-czy-mo%C5%BCe-systemowy-kim-jeste%C5%9B-w-monika-perendyk
+
+Na podstawie przeanalizowanych źródeł, najczęstsze obszary wymagające usprawnienia w zarządzaniu projektami w organizacji to:
+
+## Dojrzałość projektowa organizacji
+- Określenie obecnego poziomu dojrzałości organizacji w zakresie zarządzania projektami oraz zidentyfikowanie obszarów wymagających poprawy.[1]
+- Wdrożenie usprawnień w celu podniesienia poziomu dojrzałości projektowej organizacji.[1]
+
+## Podejście procesowe
+- Wprowadzenie podejścia procesowego do usprawniania zarządzania projektami, obejmującego identyfikację, analizę i doskonalenie kluczowych procesów.[3]
+- Wykorzystanie modeli dojrzałości procesowej, takich jak CMMI, do oceny i poprawy procesów zarządzania projektami.[3]
+
+## Zarządzanie jakością
+- Usprawnienie procesu zarządzania jakością w odniesieniu do realizacji projektów, w tym monitorowanie i kontrola jakości.[4]
+
+## Analiza i raportowanie
+- Wdrożenie zaawansowanych funkcji analizy danych projektowych i generowania szczegółowych raportów wspierających podejmowanie decyzji.[3][5]
+
+## Integracja narzędzi IT
+- Lepsza integracja narzędzi IT wspierających zarządzanie projektami z innymi systemami wykorzystywanymi w organizacji.[5]
+
+Podsumowując, kluczowe obszary wymagające usprawnienia to podniesienie dojrzałości projektowej organizacji, wdrożenie podejścia procesowego, poprawa zarządzania jakością oraz integracja zaawansowanych narzędzi IT wspierających analizę i raportowanie.[1][3][4][5]
+
+Citations:
+[1] https://pl.wikipedia.org/wiki/Dojrza%C5%82o%C5%9B%C4%87_projektowa_organizacji
+[2] https://econjournals.sgh.waw.pl/SiP/article/download/3169/2835
+[3] https://dbc.wroc.pl/Content/73796/Marciszewska_Nowosielski_Podejscie_Procesowe_w_Usprawnianiu_Zarzadzania_Projektami_2011.pdf
+[4] https://depot.ceon.pl/bitstream/handle/123456789/4714/Kompleksowe_podejscie_do_zarzadzania_projektami_na_przykladzie_uczelni_wyzszej.pdf?sequence=1
+[5] https://gloo.pl/narzedzia-informatyczne-w-zarzadzaniu-projektami/
