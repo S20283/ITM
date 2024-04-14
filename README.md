@@ -64,3 +64,35 @@ Citations:
 [3] https://gloo.pl/narzedzia-informatyczne-w-zarzadzaniu-projektami/
 [4] https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-c065b395-96c9-4ac3-ba67-b1d98cb7be6e/c/ZN_SGSP_66_1_2_7._Kuczy_C5_84ska.pdf
 [5] https://inetum.pl/8-sprawdzonych-kryteriow-wyboru-metodyki-zarzadzania-projektami/
+
+Na podstawie przeanalizowanych źródeł, oto kluczowe kryteria analizy procesów biznesowych w kontekście narzędzi IT:
+
+## Funkcjonalność narzędzi IT
+- Czy narzędzia IT oferują kompleksowe wsparcie dla kluczowych procesów biznesowych, takich jak planowanie, monitorowanie, kontrola i raportowanie?[1][3]
+- Czy narzędzia umożliwiają efektywne zarządzanie zadaniami, harmonogramami, zasobami ludzkimi i finansowymi?[1][3]
+- Czy narzędzia wspierają komunikację w zespole i dokumentację procesów?[1][3]
+
+## Analiza i raportowanie
+- Czy narzędzia IT oferują zaawansowane funkcje analizy danych procesowych i generowania szczegółowych raportów?[1][3]
+- Czy raporty dostarczają kluczowych informacji niezbędnych do podejmowania decyzji i oceny efektywności procesów?[1][3]
+
+## Dopasowanie do metodyki
+- Czy narzędzia IT są dostosowane do stosowanej w organizacji metodyki zarządzania procesami biznesowymi?[1][4]
+- Czy narzędzia wspierają etapowość realizacji procesów biznesowych?[1][4]
+
+## Elastyczność
+- Czy narzędzia IT są wystarczająco elastyczne, aby dostosować się do specyfiki i wymagań danego procesu biznesowego?[1][4][5]
+- Czy narzędzia umożliwiają łączenie różnych metodyk i podejść do optymalizacji procesów?[1][4][5]
+
+## Integracja
+- Czy narzędzia IT integrują się z innymi systemami wykorzystywanymi w organizacji (np. ERP, CRM)?[1][3]
+- Czy narzędzia umożliwiają współpracę i wymianę danych między członkami zespołu odpowiedzialnego za procesy biznesowe?[1][3]
+
+Podsumowując, kluczowe jest, aby wybrane narzędzia IT kompleksowo wspierały kluczowe procesy biznesowe, były elastyczne i dostosowane do specyfiki organizacji oraz stosowanej metodyki.[1][2][3][4][5]
+
+Citations:
+[1] https://grantthornton.pl/usluga/cyberbezpieczenstwo_i_outsourcing_it/analiza-procesow-biznesowych-w-kontekscie-narzedzi-it/
+[2] https://wir.ue.wroc.pl/docstore/download/UEWR98979cb47f35487a9dd84cde9f743c84/Dragan_Metamodel_analizy_procesow_biznesowych.pdf?entityType=phd
+[3] https://iampm.pl/blog/analityk-biznesowy-w-it-zarobki-i-perspektywy-rozwoju/
+[4] https://subeo.pl/najlepsze-narzedzia-rpa-ktore-pomoga-ci-zoptymalizowac-procesy-biznesowe/
+[5] https://pl.linkedin.com/pulse/analityk-biznesowy-czy-mo%C5%BCe-systemowy-kim-jeste%C5%9B-w-monika-perendyk
