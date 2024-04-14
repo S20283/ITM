@@ -16,3 +16,19 @@ Citations:
 [3] https://ekologiczni.com.pl/interesariusze/
 [4] https://efektpmo.pl/kim-jest-interesariusz-projektu/
 [5] https://mtc.pl/blog/interesariusze-projektu/
+
+Na podstawie przeanalizowanych źródeł, przykłady dokumentacji dotyczącej stosowanych procesów zarządzania projektami w organizacji to:
+
+- Dokumentacja Projektu wraz z kopiami dokumentów, których oryginały są przechowywane w odpowiednich jednostkach organizacyjnych[1]
+- Wniosek o zatwierdzenie organizacji ruchu oraz Zawiadomienie o wprowadzeniu organizacji ruchu[3]
+- Dokumentacja projektowa zawierająca takie elementy jak: Cel Projektu, Harmonogram Projektu, Organizacja Projektu, Formuła realizacji[4]
+- Dokumentacja techniczna przygotowana w ramach projektu organizacji ruchu, która musi spełniać ściśle określone wymogi formalne[5]
+
+Kluczowe jest, aby dokumentacja projektowa była kompletna i zawierała wszystkie niezbędne elementy, pozwalające na efektywne zarządzanie projektem. [1][3][4][5]
+
+Citations:
+[1] https://ug.edu.pl/sites/default/files/_nodes/strona/102129/files/archiwizacja_dokumentacji_projektowej_0.pdf
+[2] https://platformazakupowa.pl/transakcja/116452
+[3] https://samorzad.gov.pl/web/powiat-krasnicki/Zatwierdzenie-projektu
+[4] https://zpe.gov.pl/a/dokumentacja-projektu-edycja-dokumentow/DUZAl2PPC
+[5] https://unistop.pl/projektowanie-organizacji-ruchu-drogowego/projektowanie-organizacji-ruchu-kto-wykonuje-na-jakiej-podstawie
