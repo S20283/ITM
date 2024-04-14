@@ -32,3 +32,35 @@ Citations:
 [3] https://samorzad.gov.pl/web/powiat-krasnicki/Zatwierdzenie-projektu
 [4] https://zpe.gov.pl/a/dokumentacja-projektu-edycja-dokumentow/DUZAl2PPC
 [5] https://unistop.pl/projektowanie-organizacji-ruchu-drogowego/projektowanie-organizacji-ruchu-kto-wykonuje-na-jakiej-podstawie
+
+Oto kluczowe kryteria analizy wykorzystywanych narzędzi, aplikacji i procesów w zakresie zarządzania projektami:
+
+## Funkcjonalność
+- Czy narzędzie oferuje kompleksowe wsparcie dla kluczowych procesów zarządzania projektami, takich jak planowanie, monitorowanie, kontrola i raportowanie?[3]
+- Czy narzędzie umożliwia efektywne zarządzanie zadaniami, harmonogramami, zasobami ludzkimi i finansowymi?[3]
+- Czy narzędzie wspiera komunikację w zespole projektowym i dokumentację projektową?[3]
+
+## Analiza i raportowanie
+- Czy narzędzie oferuje zaawansowane funkcje analizy danych projektowych i generowania szczegółowych raportów?[3]
+- Czy raporty dostarczają kluczowych informacji niezbędnych do podejmowania decyzji zarządczych i oceny sukcesu projektu?[3]
+
+## Dopasowanie do metodyki
+- Czy narzędzie jest dostosowane do stosowanej w organizacji metodyki zarządzania projektami (np. PMBOK, PRINCE2)?[4][5]
+- Czy narzędzie wspiera etapowość realizacji projektu, takie jak start, przygotowanie, realizacja i zamknięcie?[4]
+
+## Elastyczność
+- Czy narzędzie jest wystarczająco elastyczne, aby dostosować się do specyfiki i wymagań danego projektu?[5]
+- Czy narzędzie umożliwia łączenie różnych metodyk (np. model hybrydowy z elementami tradycyjnymi i zwinnych)?[5]
+
+## Integracja
+- Czy narzędzie integruje się z innymi systemami wykorzystywanymi w organizacji (np. ERP, CRM)?[3]
+- Czy narzędzie umożliwia współpracę i wymianę danych między członkami zespołu projektowego?[3]
+
+Podsumowując, kluczowe jest, aby wybrane narzędzia, aplikacje i procesy w zakresie zarządzania projektami kompleksowo wspierały kluczowe obszary, były elastyczne i dostosowane do specyfiki organizacji oraz stosowanej metodyki.[1][2][3][4][5]
+
+Citations:
+[1] https://www.dbc.wroc.pl/Content/968/klonowski_systemy_informatyczne.pdf
+[2] https://depot.ceon.pl/bitstream/handle/123456789/16536/Planowanie%20przebiegu%20projekt%C3%B3w%20PL.pdf?isAllowed=y&sequence=1
+[3] https://gloo.pl/narzedzia-informatyczne-w-zarzadzaniu-projektami/
+[4] https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-c065b395-96c9-4ac3-ba67-b1d98cb7be6e/c/ZN_SGSP_66_1_2_7._Kuczy_C5_84ska.pdf
+[5] https://inetum.pl/8-sprawdzonych-kryteriow-wyboru-metodyki-zarzadzania-projektami/
