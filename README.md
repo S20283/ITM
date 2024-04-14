@@ -124,3 +124,28 @@ Citations:
 [3] https://dbc.wroc.pl/Content/73796/Marciszewska_Nowosielski_Podejscie_Procesowe_w_Usprawnianiu_Zarzadzania_Projektami_2011.pdf
 [4] https://depot.ceon.pl/bitstream/handle/123456789/4714/Kompleksowe_podejscie_do_zarzadzania_projektami_na_przykladzie_uczelni_wyzszej.pdf?sequence=1
 [5] https://gloo.pl/narzedzia-informatyczne-w-zarzadzaniu-projektami/
+
+Na podstawie przeanalizowanych materiałów, KPI (Kluczowe Wskaźniki Efektywności) to:
+
+## Definicja KPI
+- KPI to konkretne, mierzalne wskaźniki, które pozwalają ocenić efektywność i postęp w realizacji celów biznesowych organizacji, zespołu lub projektu.[1][2][3][4]
+- KPI muszą być jednoznacznie zdefiniowane, łatwe do monitorowania i aktualizowania na bieżąco.[3][4]
+
+## Rodzaje KPI
+- Wskaźniki Rezultatu (RI - Result Indicators) - podsumowują efekty działań, np. wyniki finansowe.[3]
+- Wskaźniki Efektywności (PI - Performance Indicators) - mierzą wydajność procesów, np. ilość terminowych kontaktów z klientami.[3]
+- Kluczowe Wskaźniki Efektywności (KPI) - najważniejsze mierniki, na podstawie których ocenia się postęp w realizacji celów, np. ilość nowych klientów.[3][4]
+
+## Zastosowanie KPI
+- KPI pozwalają monitorować, czy firma zmierza we właściwym kierunku i realizuje założone cele.[2][3][4]
+- Dzięki KPI można zidentyfikować obszary wymagające poprawy i podjąć odpowiednie działania.[1][3][4]
+- KPI są wykorzystywane w różnych obszarach, m.in. marketingu, sprzedaży, obsłudze klienta, HR.[4]
+
+Podsumowując, KPI to kluczowe, mierzalne wskaźniki efektywności, które umożliwiają ocenę postępów w realizacji celów biznesowych organizacji.[1][2][3][4][5]
+
+Citations:
+[1] https://www.bluewinston.pl/kluczowe-wskazniki-efektywnosci-kpi-ktore-powinnismy-sledzic/
+[2] https://www.luceossmart.com/post/kluczowe-wskazniki-efektywnosci-kpi
+[3] https://leanactionplan.pl/kpi/
+[4] https://pl.wix.com/blog/artykul/kpi-przyklady-wskaznikow-efektywnosci
+[5] https://www.damianrams.pl/kpi/
